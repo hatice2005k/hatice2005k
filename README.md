@@ -64,14 +64,7 @@ A 2D mobile game (`Java`, `Android Studio`) and a 3D game (`C#`, `Unity`) with g
 
 **Core concepts:** Object-Oriented Programming · Data Structures & Algorithms · Multi-threading · Microprocessor Architecture · Embedded Systems · Digital Logic Design · Image Processing
 
-## 🎯 Current goals
 
-- [x] Build an ESP32 web dashboard and publish it on GitHub
-- [ ] Connect real sensors (temperature, humidity, vibration)
-- [ ] Add MQTT and wireless data communication to the ESP32 project
-- [ ] Finish the microprocessor design and its testbenches
-- [ ] Optimize my OpenCV pipelines for live camera input
-- [ ] Commit something every day
 
 ## 🤝 Let's connect
 
